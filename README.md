@@ -7,9 +7,9 @@
   ##
 
 <div align="center">
-  <a href="https://github.com/eduriccetto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduriccetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduriccetto&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/EduardoPeixotoRiccetto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoPeixotoRiccetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPeixotoRiccetto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
@@ -32,5 +32,5 @@
   <a href = "mailto:eduriccetto23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/eduriccetto/eduriccetto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduriccetto/EduardoPeixotoRiccetto/blob/output/github-contribution-grid-snake.svg)
 </div>
